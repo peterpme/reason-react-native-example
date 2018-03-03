@@ -1,0 +1,7 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+.merlin
+*.bs.js
+.bsb.lock
+lib
